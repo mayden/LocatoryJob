@@ -10,6 +10,7 @@ I decided to use the following features to make my app scalable as possible.
 
 ## Converter
 For the architectural basics, I've created Converter module. The advantages are vast, particularly now we can easily add more numeral converters without any major changes. Just adding method.
+
 Moreover, I've added the select option for scalability reasons: currently, we can only choose the 'Arabic' option (as I tasked), but if we want to add another convert so we easily adding another option.
 
 ## Time
