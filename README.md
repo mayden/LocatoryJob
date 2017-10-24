@@ -15,6 +15,10 @@ Moreover, I've added the select option for scalability reasons: currently, we ca
 
 ## Time
 10 minutes - Analyze the Task
+
 25 minutes - Setup the environment (Zend Framework, PHP Local Server, CLI Tools and etc)
-1.5 hour - Programming and learning Zend Framework. Prior the task, I wasn't familiar with Zend, so I had to learn it during the task. It took from me the majority of time.
+
+1.5 hour - Programming and learning Zend Framework.
+
+Prior the task, I wasn't familiar with Zend, so I had to learn it during the task. It took from me the majority of time.
 
