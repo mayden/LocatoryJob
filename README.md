@@ -25,3 +25,4 @@ Prior the task, I wasn't familiar with Zend, so I had to learn it during the tas
 ## Run it
 ``` composer serve```
 
+<img src="https://image.ibb.co/m5Yut6/Capture.png" />
