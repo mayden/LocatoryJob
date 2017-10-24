@@ -25,7 +25,3 @@ Prior the task, I wasn't familiar with Zend, so I had to learn it during the tas
 ## Run it
 ``` composer serve```
 
-## Preview
-<p align="center">
-  <img src="https://imgur.com/a/7c60d" />
-</p>
