@@ -26,3 +26,6 @@ Prior the task, I wasn't familiar with Zend, so I had to learn it during the tas
 ``` composer serve```
 
 <img src="https://image.ibb.co/m5Yut6/Capture.png" />
+
+## Additional Notes
+We could do it in another way: just pure javascript in the front-end (similiar to the validator_helper.js) and thats it. But we wanted enterprise app! So we need to scale it as big as we can! :)
