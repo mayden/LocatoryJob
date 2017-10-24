@@ -1,0 +1,32 @@
+
+    <div class="col-md-12">
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                <h3 class="panel-title">Convertor</h3>
+            </div>
+            <div class="panel-body text-center">
+               <form class="form-inline" action="/convert" method="post"  id="convertorForm">
+                    <div class="form-group col-md-4">
+                        <label id="roman-label">Roman Numeral:</label>
+                        <input type="text" class="form-control" placeholder="" id="roman-txt" name="fromNumber">
+                    </div>
+                   <div class="form-group col-md-4">
+                       <label>To:</label>
+                       <select class="form-control" name="toNumber">
+                           <option value="Arabic">Arabic</option>
+                       </select>
+                   </div>
+                   <div class="form-group col-md-4">
+                       <label id="roman-label">Result:</label>
+                       <input type="text" class="form-control" value="" id="result-txt" name="resultNumber" disabled>
+                   </div>
+
+                   <div class="form-group col-md-12 text-center" style="margin-top:10px">
+                       <button class="btn btn-primary" id="submitConvert" type="submit">Submit</button>
+                   </div>
+               </form>
+            </div>
+        </div>
+        <div id="errorid" class="alert alert-danger" style="display: none;"></div>
+    </div>
+</div>
