@@ -26,5 +26,6 @@ Prior the task, I wasn't familiar with Zend, so I had to learn it during the tas
 ``` composer serve```
 
 ## Preview
-
-![alt text](https://imgur.com/a/7c60d)
+<p align="center">
+  <img src="https://imgur.com/a/7c60d" />
+</p>
