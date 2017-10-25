@@ -22,3 +22,10 @@ Moreover, I've added the select option for scalability reasons: currently, we ca
 
 Prior the task, I wasn't familiar with Zend, so I had to learn it during the task. It took from me the majority of time.
 
+## Run it
+``` composer serve```
+
+<img src="https://image.ibb.co/m5Yut6/Capture.png" />
+
+## Additional Notes
+We could do it in another way: just pure javascript in the front-end (similiar to the validator_helper.js) and thats it. But we wanted enterprise app! So we need to scale it as big as we can! :)
